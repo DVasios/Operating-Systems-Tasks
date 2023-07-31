@@ -1,0 +1,34 @@
+# file that defines the tree
+# lines starting with '#' are comments
+# . each block of lines defines a node
+# . each node is defined as:
+#    1st line:         name of node
+#    2nd line:         number of children
+#    subsequent lines: name(s) of children
+# . blocks are seperated with empty lines
+# . no comments are allowed within a block
+# . nodes must be placed in a DFS order
+
+Dimitris	
+3
+Kostas
+Giannis
+Danai
+
+Kostas
+2
+Thanasis
+Fei
+
+Thanasis
+0
+
+Fei
+0
+
+Giannis
+0
+
+Danai
+0
+
