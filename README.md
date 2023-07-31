@@ -1,8 +1,8 @@
-# Operational Systems Course Tasks
+# Operating Systems Course Tasks
 
 ## Description 
 
-This repository contains a collection of programmatic tasks implemented in C as part of the "Operational Systems" course at the School of Electrical & Computer Engineering, National Technical University of Athens (NTUA). Each task is designed to reinforce fundamental concepts related to operating systems and low-level programming in the C language. The tasks cover a range of topics, including process management, memory allocation, file handling, and more.
+This repository contains a collection of programmatic tasks implemented in C as part of the "Operating Systems" course at the School of Electrical & Computer Engineering, National Technical University of Athens (NTUA). Each task is designed to reinforce fundamental concepts related to operating systems and low-level programming in the C language. The tasks cover a range of topics, including process management, memory allocation, file handling, and more.
 
 ## Concepts Analyzed
 
